@@ -374,6 +374,7 @@ h2{
     .mortgage-calculator{
         flex-direction: row;
         max-width: 950px;
+        border-radius: 20px 0 0 20px;
     }
     .mortgage-form-section, .mortgage-results{
         flex: 0 0 50%;
