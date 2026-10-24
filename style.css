@@ -373,7 +373,7 @@ h2{
         margin-inline: 2rem;}
     .mortgage-calculator{
         flex-direction: row;
-        max-width: 750px;
+        max-width: 950px;
     }
     .mortgage-form-section, .mortgage-results{
         flex: 0 0 50%;
